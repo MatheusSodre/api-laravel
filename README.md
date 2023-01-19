@@ -14,7 +14,11 @@ Instale as dependências do projeto
 ```sh
 composer install
 ```
+
+```sh
 composer require laravel/octane
+```
+
 
 Gere a key do projeto Laravel
 ```sh
